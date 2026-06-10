@@ -8,6 +8,7 @@ O aplicativo é um verificador de URLs suspeitas criado com **Streamlit**, com i
 
 - `app.py` — app principal em Streamlit
 - `requirements.txt` — dependência necessária para rodar o app
+- `RELATÓRIO FINAL - CYBER IA - KAROL FALCÃO.docx` — relatório final do projeto
 
 ## Como executar
 
@@ -40,6 +41,10 @@ O `Cyber URL Sentinel` analisa URLs em busca de sinais comuns de phishing e de r
 
 Confira os projetos desenvolvidos nas aulas anteriores da formação Kensei AI Foundations:
 
-- [Semana 07 - Kensei Cybersec AI](https://github.com/KFalcao/kensei-cybersec-ai/tree/main/semana-07)
+- [Kensei Cybersec AI](https://github.com/KFalcao/kensei-cybersec-ai/)
 
-> Se o repositório local contiver mais pastas de aulas anteriores, sinta-se à vontade para atualizar esta seção com os links relativos.
+## Relatório do projeto
+
+O relatório final do projeto está incluído no repositório como:
+
+- `RELATÓRIO FINAL - CYBER IA - KAROL FALCÃO.docx`
