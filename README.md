@@ -8,7 +8,7 @@ O aplicativo é um verificador de URLs suspeitas criado com **Streamlit**, com i
 
 - `app.py` — app principal em Streamlit
 - `requirements.txt` — dependência necessária para rodar o app
-- `RELATÓRIO FINAL - CYBER IA - KAROL FALCÃO.docx` — relatório final do projeto
+- `RELATÓRIO FINAL - CYBER IA - KAROL FALCÃO.pdf` — relatório final do projeto
 
 ## Como executar
 
@@ -47,4 +47,4 @@ Confira os projetos desenvolvidos nas aulas anteriores da formação Kensei AI F
 
 O relatório final do projeto está incluído no repositório como:
 
-- `RELATÓRIO FINAL - CYBER IA - KAROL FALCÃO.docx`
+- `RELATÓRIO FINAL - CYBER IA - KAROL FALCÃO.pdf`
